@@ -1,0 +1,11 @@
+E:\ex-gaming\ScreenTask\ScreenTask\bin\Debug\ScreenTask.exe.config
+E:\ex-gaming\ScreenTask\ScreenTask\bin\Debug\WebServer\bootstrap.min.css
+E:\ex-gaming\ScreenTask\ScreenTask\bin\Debug\WebServer\index.html
+E:\ex-gaming\ScreenTask\ScreenTask\bin\Debug\ScreenTask.exe
+E:\ex-gaming\ScreenTask\ScreenTask\bin\Debug\ScreenTask.pdb
+E:\ex-gaming\ScreenTask\ScreenTask\obj\Debug\ScreenTask.csprojResolveAssemblyReference.cache
+E:\ex-gaming\ScreenTask\ScreenTask\obj\Debug\ScreenTask.frmMain.resources
+E:\ex-gaming\ScreenTask\ScreenTask\obj\Debug\ScreenTask.Properties.Resources.resources
+E:\ex-gaming\ScreenTask\ScreenTask\obj\Debug\ScreenTask.csproj.GenerateResource.Cache
+E:\ex-gaming\ScreenTask\ScreenTask\obj\Debug\ScreenTask.exe
+E:\ex-gaming\ScreenTask\ScreenTask\obj\Debug\ScreenTask.pdb
